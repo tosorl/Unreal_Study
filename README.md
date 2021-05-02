@@ -7,7 +7,7 @@
 + https://docs.unrealengine.com/ko/ProgrammingAndScripting/ProgrammingWithCPP/CPPTutorials/index.html
 
 ---
-## UnrealStydy2
+## UnrealStudy2
 + 지금까지 연습한 내용을 토대로 간단한 FPS의 기능들을 구현해보는 시간
 
 ---
