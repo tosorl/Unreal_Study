@@ -1,6 +1,9 @@
 # 변수, 타이머, 이벤트
 + 문서: https://docs.unrealengine.com/ko/ProgrammingAndScripting/ProgrammingWithCPP/CPPTutorials/VariablesTimersEvents/index.html
-+ 사용 파일: [Countdown.cpp](Study2/Countdown.cpp)
++ 
++ 사용 파일 
+  + [Countdown.h](Study2/Countdown.h)
+  + [Countdown.cpp](Study2/Countdown.cpp)
 ---
 
 # 게임 조종 카메라
