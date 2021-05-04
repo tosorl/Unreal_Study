@@ -10,9 +10,9 @@
 ---
 ## UnrealStudy2
 + 지금까지 연습한 내용을 토대로 간단한 FPS의 기능들을 구현해보는 시간
-+ [FPS Info](./UnrealStudy2/Source/FPS-Info.md)
++ [FPS Info](UnrealStudy2/Source/FPS-Info.md)
 
 ---
 ## SoulLike
 + 지금까지 연습한 내용을 토대로 간단한 소울라이크(TPS)의 기능들을 구현해보는 시간
-+ [SoulLike Info](./SoulLike/Source/SoulLik-Info.md)
++ [SoulLike Info](SoulLike/Source/SoulLike-Info.md)
