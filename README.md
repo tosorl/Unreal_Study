@@ -4,7 +4,7 @@
 ---
 ## Study2
 + UE4 문서에 있는 가이드를 따라하며 엔진에 적응하는 시간
-+ [UE4 C++문서](https://docs.unrealengine.com/ko/ProgrammingAndScripting/ProgrammingWithCPP/CPPTutorials/index.html)
++ [UE4 C++ 공식문서](https://docs.unrealengine.com/ko/ProgrammingAndScripting/ProgrammingWithCPP/CPPTutorials/index.html)
 + [tutorials Info](Study2/Source/tutorials%20Info.md)
 
 ---
